@@ -31,7 +31,7 @@ To run this project, ensure you have the following installed:
 *To use this proyect you should modify the 'application.properties' with your DB settings:*
 
 ---
-- spring.datasource.url=jdbc:mysql://localhost:3306/online_shopping
+- spring.datasource.url=jdbc:postgresql://localhost:5432/online_shopping
 - spring.datasource.username=your_username
 - spring.datasource.password=your_password
 ---
